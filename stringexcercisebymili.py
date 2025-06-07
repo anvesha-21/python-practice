@@ -43,9 +43,9 @@ print(str.istitle())
 print(str.isupper())
 print(str.upper())
 
-# print(str.startswith())
+print(str.startswith())
 
-# print(str.startswith("very" , 10 , 12))
+print(str.startswith("very" , 10 , 12))
 
 print(str.swapcase())
 
