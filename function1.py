@@ -6,8 +6,8 @@
 # def isGreater(a , b):
 #    if(a>b):
 #     print("First number is greater.")
-# # elif(a=b):
-# #      print("NUmber are equal to eachother")
+# elif(a=b):
+#      print("NUmber are equal to eachother")
 #    else:
 #     print("Second number is greater or equal.")
 
@@ -20,29 +20,29 @@
 
 # a = 9
 # b = 8
-# # if(a>b):
-# #     print("First number is greater.")
-# # # elif(a=b):
-# # #     print("NUmber are equal to eachother")
-# # else:
-# #     print("Second number is greater or equal.")
+# if(a>b):
+#     print("First number is greater.")
+# elif(a=b):
+#     print("NUmber are equal to eachother")
+# else:
+#     print("Second number is greater or equal.")
 # isGreater(a , b)
 
-# # gmean1(a*b)/(a+b)
-# # print(gmean1)
+# gmean1(a*b)/(a+b)
+# print(gmean1)
 # calculateGmean(a , b)
 
 
 # c = 5
 # d = 7
-# # if(c>d):
-# #     print("First number is greater.")
-# # # elif(a=b):
-# # #     print("NUmber are equal to eachother")
-# # else:
-# #     print("Second number is greater or equal.")
-# # gmean2(c*d)/(c+d)
-# # print(gmean2)
+# if(c>d):
+#     print("First number is greater.")
+# elif(a=b):
+#     print("NUmber are equal to eachother")
+# else:
+#     print("Second number is greater or equal.")
+# gmean2(c*d)/(c+d)
+# print(gmean2)
 
 # isGreater(c , d)
 # calculateGmean(c , d)
