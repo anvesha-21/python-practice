@@ -1,21 +1,21 @@
-# # MAP
+# MAP
 
-# # def cube (x):
-# #     return x*x*x
-# # print(cube(2))
+# def cube (x):
+#     return x*x*x
+# print(cube(2))
 
-# l=(1,2,4,6,4,3)
+l=(1,2,4,6,4,3)
 
-# newl = list(map(lambda x: x*x*x ,l))
-# print(newl)
+newl = list(map(lambda x: x*x*x ,l))
+print(newl)
 
-# # FILTER
+# FILTER
 
-# def filter_function(a):
-#     return a>3
+def filter_function(a):
+    return a>3
 
-# newnewl = list(filter(filter_function , l))
-# print(newnewl)
+newnewl = list(filter(filter_function , l))
+print(newnewl)
 
 # REDUCE
 
